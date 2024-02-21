@@ -2,6 +2,6 @@
 class Solution {
 public:
     int exampleMethod() {
-      return 0;
+      return 100;
     }
 };
